@@ -47,7 +47,7 @@ namespace MyProject.Business.Implementations.Products
                 }
 
                 productos.ForEach(car => Console.WriteLine(car));
-              
+
             }
             catch (Exception ex)
             {
@@ -91,7 +91,7 @@ namespace MyProject.Business.Implementations.Products
             // Limpiamos espacios en blanco
             obj.Product = obj.Product == null ? string.Empty : obj.Product.Trim();
             obj.Ingredients = obj.Ingredients == null ? string.Empty : obj.Ingredients.Trim();
-            
+
             try
             {
 
@@ -132,7 +132,7 @@ namespace MyProject.Business.Implementations.Products
                 // Se puede implementer ErrorHandler para guardar los logs
             }
 
-            if (result.retur_value == 0)
+            if (result.retur_value_s != null && result.retur_value_s.Length >= 0)
             {
                 return new HttpGenericResponseNoData(SystemCodes.Ok, ConstantMessages.SuccessfulInsertMessage);
 
