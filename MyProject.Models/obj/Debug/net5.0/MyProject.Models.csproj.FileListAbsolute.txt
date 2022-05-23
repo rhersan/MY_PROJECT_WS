@@ -1,0 +1,15 @@
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\bin\Debug\net5.0\MyProject.Models.deps.json
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\bin\Debug\net5.0\MyProject.Models.dll
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\bin\Debug\net5.0\MyProject.Models.pdb
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\bin\Debug\net5.0\MyProject.Common.dll
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\bin\Debug\net5.0\MyProject.Common.pdb
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\obj\Debug\net5.0\MyProject.Models.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\obj\Debug\net5.0\MyProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\obj\Debug\net5.0\MyProject.Models.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\obj\Debug\net5.0\MyProject.Models.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\obj\Debug\net5.0\MyProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\obj\Debug\net5.0\MyProject.Models.csproj.CopyComplete
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\obj\Debug\net5.0\MyProject.Models.dll
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\obj\Debug\net5.0\MyProject.Models.pdb
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\obj\Debug\net5.0\ref\MyProject.Models.dll
+C:\Users\Administrador\source\repos\MyProject\MyProject.Models\bin\Debug\net5.0\ref\MyProject.Models.dll

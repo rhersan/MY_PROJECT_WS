@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\MyProject\MyProject.Common\bin\Debug\net5.0\MyProject.Common.deps.json
+C:\Users\Administrador\source\repos\MyProject\MyProject.Common\bin\Debug\net5.0\MyProject.Common.dll
+C:\Users\Administrador\source\repos\MyProject\MyProject.Common\bin\Debug\net5.0\MyProject.Common.pdb
+C:\Users\Administrador\source\repos\MyProject\MyProject.Common\obj\Debug\net5.0\MyProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\MyProject\MyProject.Common\obj\Debug\net5.0\MyProject.Common.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\MyProject\MyProject.Common\obj\Debug\net5.0\MyProject.Common.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\MyProject\MyProject.Common\obj\Debug\net5.0\MyProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\MyProject\MyProject.Common\obj\Debug\net5.0\MyProject.Common.dll
+C:\Users\Administrador\source\repos\MyProject\MyProject.Common\obj\Debug\net5.0\MyProject.Common.pdb
+C:\Users\Administrador\source\repos\MyProject\MyProject.Common\obj\Debug\net5.0\ref\MyProject.Common.dll
+C:\Users\Administrador\source\repos\MyProject\MyProject.Common\bin\Debug\net5.0\ref\MyProject.Common.dll

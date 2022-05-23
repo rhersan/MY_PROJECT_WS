@@ -1,0 +1,323 @@
+﻿++Solución "MyProject" ‎(5 de 5 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:MyProject.sln
+++MyProject.API
+i:{00000000-0000-0000-0000-000000000000}:MyProject.API
+++Connected Services 
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>27
+++MongoDB
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>815
+++Plataforma de identidad de Microsoft
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>817
+++Dependencias
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>26
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:>91
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:>143
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:>251
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:>197
+++Analizadores
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:analizadores
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:analizadores
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:analizadores
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:analizadores
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:analizadores
+++Marcos de trabajo
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:marcos de trabajo
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:marcos de trabajo
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:marcos de trabajo
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:marcos de trabajo
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:marcos de trabajo
+++Paquetes
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:paquetes
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:paquetes
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:paquetes
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:paquetes
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:paquetes
+++Proyectos
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:proyectos
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:proyectos
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:proyectos
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:proyectos
+++Properties
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\properties\
+++launchSettings.json
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\properties\launchsettings.json
+++Controllers
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\controllers\
+++WeatherForecastController.cs
+++appsettings.Development.json
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\appsettings.development.json
+++appsettings.json
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\appsettings.json
+++Program.cs
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\program.cs
+++Startup.cs
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\startup.cs
+++WeatherForecast.cs
+++Se detectó la dependencia MongoDB
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>816
+++Para las aplicaciones que autentican a los usuarios con la Plataforma de identidad de Microsoft para desarrolladores (Azure AD, Azure AD B2C y cuentas personales de Microsoft).
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>818
+++Microsoft.AspNetCore.Analyzers
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.AspNetCore.App
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\microsoft.netcore.app
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\microsoft.netcore.app
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\microsoft.netcore.app
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\microsoft.netcore.app
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\users\administrador\source\repos\myproject\myproject.data\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (5.0.15)
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>442
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:>1746
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:>1747
+++MongoDB.Driver (2.14.1)
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>768
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:>850
+++Swashbuckle.AspNetCore (5.6.3)
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>39
+++MyProject.Common
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.common\myproject.common.csproj
+i:{00000000-0000-0000-0000-000000000000}:MyProject.Common
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\users\administrador\source\repos\myproject\myproject.common\myproject.common.csproj
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.common\myproject.common.csproj
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.common\bin\debug\net5.0\myproject.common.dll
+++MyProject.Business
+i:{00000000-0000-0000-0000-000000000000}:MyProject.Business
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.business\myproject.business.csproj
+++Class1.cs
+++Utilities
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\utilities\
+++StaticConfig.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\utilities\staticconfig.cs
+++MyProject.Models
+i:{00000000-0000-0000-0000-000000000000}:MyProject.Models
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\users\administrador\source\repos\myproject\myproject.models\myproject.models.csproj
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.models\myproject.models.csproj
+++MyProject.Data
+i:{00000000-0000-0000-0000-000000000000}:MyProject.Data
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.data\myproject.data.csproj
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.data\myproject.data.csproj
+++Dapper (2.0.123)
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:>828
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:>826
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:>830
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>831
+++NewFolder
+++Dapper
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\users\administrador\source\repos\myproject\myproject.data\dapper\
+++Implementations
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\users\administrador\source\repos\myproject\myproject.data\dapper\implementations\
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\implementations\
+++Interfaces
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\users\administrador\source\repos\myproject\myproject.data\dapper\interfaces\
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\interfaces\
+++IDapperMongoManager.cs
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\users\administrador\source\repos\myproject\myproject.data\dapper\interfaces\idappermongomanager.cs
+++IMongoDatabaseSettings.cs
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\users\administrador\source\repos\myproject\myproject.data\dapper\interfaces\imongodatabasesettings.cs
+++NPOI (2.5.5)
+++DapperMongoManager.cs
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\users\administrador\source\repos\myproject\myproject.data\dapper\implementations\dappermongomanager.cs
+++MongoDatabaseSettings.cs
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\users\administrador\source\repos\myproject\myproject.data\dapper\implementations\mongodatabasesettings.cs
+++Common
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\implementations\common\
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\interfaces\common\
+++AppSetting.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\appsetting.cs
+++BaseModel.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\basemodel.cs
+++BaseUpdateCreate.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\baseupdatecreate.cs
+++Filter.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\filter.cs
+++GenericResponse.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\genericresponse.cs
+++GenericResult.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\genericresult.cs
+++HttpGenericResponseMS.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\httpgenericresponsems.cs
+++HttpGenericResponseNoDataMS.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\httpgenericresponsenodatams.cs
+++Label.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\label.cs
+++OpeFile.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\opefile.cs
+++Reason.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\reason.cs
+++Select.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\select.cs
+++TestModel.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\testmodel.cs
+++Topic.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\common\topic.cs
+++ConstantMessages.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\utilities\constantmessages.cs
+++Constants.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\utilities\constants.cs
+++Enums.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\utilities\enums.cs
+++GeneralFunctions.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\utilities\generalfunctions.cs
+++ParseRequest.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\utilities\parserequest.cs
+++ShowFields.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\utilities\showfields.cs
+++Constraints
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\constraints\
+++CatalogsStatus
+++Clicks
+++SystemCodes.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\constraints\systemcodes.cs
+++CatalogsStatusEnum.cs
+++ClickStatusEnum.cs
+++SolutionStatusEnum.cs
+++Encryption
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\encryption\
+++Encryption.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\encryption\encryption.cs
+++HttpResponses
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\httpresponses\
+++DataFileResponse.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\httpresponses\datafileresponse.cs
+++DataNotPagedResponse.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\httpresponses\datanotpagedresponse.cs
+++DataResponse.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\httpresponses\dataresponse.cs
+++HttpGenericResponse.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\httpresponses\httpgenericresponse.cs
+++HttpGenericResponseNoData.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\httpresponses\httpgenericresponsenodata.cs
+++HttpResponse.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\httpresponses\httpresponse.cs
+++LoginResponse.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\httpresponses\loginresponse.cs
+++MaintenanceResponse.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\httpresponses\maintenanceresponse.cs
+++MicroservicesHttpGenericResponse.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\httpresponses\microserviceshttpgenericresponse.cs
+++ReCaptchaResponse.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\httpresponses\recaptcharesponse.cs
+++Miscellaneous
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\miscellaneous\
+++FilterRequest.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\miscellaneous\filterrequest.cs
+++JwtBasePayload.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\miscellaneous\jwtbasepayload.cs
+++Ordering.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\miscellaneous\ordering.cs
+++PageRequest.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\miscellaneous\pagerequest.cs
+++ValidatedResponse.cs
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\source\repos\myproject\myproject.common\miscellaneous\validatedresponse.cs
+++MongoDB.Bson (2.14.1)
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:>1049
+++Users
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\users\
+++User.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\users\user.cs
+++UsersController.cs
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\controllers\userscontroller.cs
+++ActionFilters
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\actionfilters\
+++ErrorHandler.cs
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\actionfilters\errorhandler.cs
+++ValidateModelAttribute.cs
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\actionfilters\validatemodelattribute.cs
+++LogService.cs
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\implementations\common\logservice.cs
+++RequestService.cs
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\implementations\common\requestservice.cs
+++ILogService.cs
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\interfaces\common\ilogservice.cs
+++Logs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\logs\
+++Log.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\logs\log.cs
+++User
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\interfaces\user\
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\implementations\user\
+++Interface1.cs
+++IUserService.cs
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\interfaces\user\iuserservice.cs
+++UserService.cs
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\implementations\user\userservice.cs
+++Newtonsoft.Json (13.0.1)
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>1308
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson (5.0.15)
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>1311
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:>1510
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:>1511
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:>1512
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:>1513
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:>1514
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:>1515
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:>1516
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:>1517
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>1520
+++Microsoft.CodeAnalysis.Analyzers
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\users\administrador\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:c:\users\administrador\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:c:\users\administrador\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{01dc73fd-6747-42d7-9ea7-97b1063c670a}:>1717
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:>1718
+i:{596dde3d-fd9d-4e69-b4a4-7a1feba3faab}:>1719
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:>1720
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:>1721
+++Security
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\interfaces\security\
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\implementations\security\
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\security\
+++IAuthService.cs
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\interfaces\security\iauthservice.cs
+++AuthService.cs
+i:{3b41b05c-f7a5-4cb1-976d-0a3e16883185}:c:\users\administrador\source\repos\myproject\myproject.business\implementations\security\authservice.cs
+++13aermbb.ejs~
+++ClaimsBase.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\security\claimsbase.cs
+++Login.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\security\login.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\login\login.cs
+++Logout.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\security\logout.cs
+++UserBase.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\security\userbase.cs
+++Login
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\login\
+++CheckActiveUser.cs
+++Device.cs
+i:{5cc346e2-bdfd-4525-a896-83c601b94060}:c:\users\administrador\source\repos\myproject\myproject.models\login\device.cs
+++LoginPharmacy.cs
+++MobileLogin.cs
+++MobilePermissions.cs
+++Version.cs
+++LoginController.cs
+i:{59e9917d-c22d-4549-9eef-1a8528180903}:c:\users\administrador\source\repos\myproject\myproject.api\controllers\logincontroller.cs
